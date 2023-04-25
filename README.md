@@ -18,7 +18,11 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Taking photo of train, watching Japanese amine and learning mathematics.
 <!-- - the MMD model of this icon is made by トビ-sama.-->
 - Twitter :https://www.twitter.com/sohokro
+
 - Twitter :https://www.twitter.com/sohokro_math
+
 - Mstdn :sohokro@mstdn.jp
+
 - Mathtodon :sohokro@mathtod.online
+
 - Misskey :sohokro@misskey.io
