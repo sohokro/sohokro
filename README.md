@@ -13,7 +13,12 @@ Here are some ideas to get you started:-->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me:https://www.twitter.com/sohokro
+<!-- - 📫 How to reach me:https://www.twitter.com/sohokro -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Taking photo of train
+- ⚡ Fun fact: Taking photo of train, watching Japanese amine and learning mathematics.
 <!-- - the MMD model of this icon is made by トビ-sama.-->
+- Twitter :https://www.twitter.com/sohokro
+- Twitter :https://www.twitter.com/sohokro_math
+- Mstdn :sohokro@mstdn.jp
+- Mathtodon :sohokro@mathtod.online
+- Misskey :sohokro@misskey.io
