@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a student of Tokyo Institute of Technology.
+- 🔭 I’m a student of Tokyo Institute of Technology(Tokyo,Japan).
 
 - 🗾 I'm from Japan.
 
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning science. I'm a student of school of science.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
