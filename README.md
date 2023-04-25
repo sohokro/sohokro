@@ -14,4 +14,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me:https://www.twitter.com/sohokro
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Taking photo of train
-- the MMD model of this icon is made by トビ-sama.
+<!-- - the MMD model of this icon is made by トビ-sama.-->
