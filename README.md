@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a Japanese high-school student.
+- 🔭 I’m a student of Tokyo Institute of Technology.
+
+- 🗾 I'm from Japan.
 
 - 🌱 I’m currently learning Rust.
 <!-- - 👯 I’m looking to collaborate on ...
