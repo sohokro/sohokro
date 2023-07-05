@@ -27,4 +27,6 @@ Here are some ideas to get you started:-->
 
 - Misskey :sohokro@misskey.io
 
+- Misskey :sohokro@misskey.yuanzu.ml
+
 - Mathlog :https://mathlog.info/users/71
