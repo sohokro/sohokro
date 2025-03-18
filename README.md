@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a student of Tokyo Institute of Technology(Tokyo,Japan).
+- 🔭 I’m a student of Institute of Science Tokyo(Tokyo,Japan).
 
 - 🗾 I'm from Japan.
 
@@ -16,15 +16,15 @@ Here are some ideas to get you started:-->
 <!-- - 📫 How to reach me:https://www.twitter.com/sohokro -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Taking photo of train, watching Japanese amine and learning mathematics.
-<!-- - the MMD model of this icon is made by トビ-sama.-->
-- Twitter :https://www.twitter.com/sohokro
 
-- Twitter :https://www.twitter.com/sohokro_math
+- Twitter : https://www.twitter.com/sohokro
 
-- Mstdn :sohokro@mstdn.jp
+- Twitter : https://www.twitter.com/sohokro_math
 
-- Mathtodon :sohokro@mathtod.online
+- Mstdn : sohokro@mstdn.jp
 
-- Misskey :sohokro@misskey.io
+- Mathtodon : sohokro@mathtod.online
 
-- Mathlog :https://mathlog.info/users/71
+- Misskey : sohokro@misskey.io
+
+- Mathlog : https://mathlog.info/users/71
