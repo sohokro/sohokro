@@ -10,8 +10,6 @@ Hi, I'm Sohokro!
 
 - Twitter : https://www.twitter.com/sohokro
 
-- Twitter : https://www.twitter.com/sohokro_math
-
 - Mstdn : sohokro@mstdn.jp
 
 - Mathtodon : sohokro@mathtod.online
